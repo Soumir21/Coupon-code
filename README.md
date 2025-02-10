@@ -14,3 +14,8 @@ c. There is no expiry date for a coupon.
 d. Coupon is not user specific but general.
 e. Anyone can post or modify the coupons, admin validation can be implemented.
 f. In the applicable coupon array, we can sort the coupons in descending order of the discount value.
+
+//Env example
+
+DB_CONNECT=your_db_url
+PORT=5000 
